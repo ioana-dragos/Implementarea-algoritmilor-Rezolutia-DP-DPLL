@@ -8,9 +8,9 @@ Am implementat trei metode pentru SAT:
 
 -Rezoluție – în fișierul mainRezolutie.cpp
 
-1.Fișierele sunt .cpp (C++), deci le poți deschide și rula în mai multe moduri:
+Fișierele sunt .cpp (C++), deci le poți deschide și rula în mai multe moduri:
 
-  Online (cea mai ușoară metodă):
+1.Online (cea mai ușoară metodă):
   
   Deschide un site ca cpp.sh sau onlinegdb.com
   
