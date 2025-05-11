@@ -1,8 +1,8 @@
 # Implementarea-algoritmilor-Rezolutia-DP-DPLL
 Am implementat trei metode pentru SAT:
--DP – în fișierul dp.cpp
--DPLL – în fișierul dpll.cpp
--Rezoluție – în fișierul rezolutie.cpp
+-DP – în fișierul mainDP.cpp
+-DPLL – în fișierul mainDPLL.cpp
+-Rezoluție – în fișierul mainRezolutie.cpp
 
 1.Fișierele sunt .cpp (C++), deci le poți deschide și rula în mai multe moduri:
   Online (cea mai ușoară metodă):
